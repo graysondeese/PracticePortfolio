@@ -187,7 +187,7 @@ right: 0;
     }
     .sci {
         position: absolute;
-        bottom: 50px;
+        bottom: 20vh;
         right: initial;
         flex-direction: row;
     }
